@@ -1,0 +1,65 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "Ansari",
+      "name": "Ansari_admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "phone": "8998988989",
+      "country": "india",
+      "address": "qwerty",
+      "gender": "male"
+    },
+    {
+      "id": "Ansari ",
+      "name": "Ansari Aaquib",
+      "password": "password",
+      "email": "Ansari@gmail.com",
+      "phone": "8998899889",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "Aman",
+      "name": "Aman Ansari",
+      "password": "2000",
+      "email": "aman@gmail.com",
+      "phone": "8989898989",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "Aaquib",
+      "name": "AnsariAaquib",
+      "password": "1998",
+      "email": "Aaquib@gmail.com",
+      "phone": "9889899898",
+      "country": "india",
+      "address": "qwerty",
+      "gender": "male"
+    },
+    {
+      "id": "admin",
+      "name": "Aaquib",
+      "password": "password",
+      "email": "aaquib@gmail.com",
+      "phone": "8999898989",
+      "country": "india",
+      "address": "Mumbai",
+      "gender": "male"
+    }
+  ]
+}
